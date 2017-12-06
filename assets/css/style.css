@@ -72,6 +72,18 @@ h3 {
   align-content: center;
 }
 
+/* footer */
+
+footer {
+  padding: 30px 0;
+  clear: both;
+  font-size: 12px;
+  color: #fff;
+  color: #ccc;
+  text-align: center;
+  background: #666;
+  border-top: 8px solid #4aaaa5;
+}
 
 /* sidebar */
 
@@ -197,20 +209,4 @@ input[type=submit] {
   cursor: pointer;
   background: #4aaaa5;
   border: 0 none;
-}
-
-/* footer */
-
-.sticky-footer {
-	width: 100%;
-  	padding: 30px 0;
-  	clear: both;
-  	font-size: 12px;
-  	color: #fff;
-  	color: #ccc;
-  	text-align: center;
-  	background: #666;
-  	border-top: 8px solid #4aaaa5;
-  	position:fixed;    /*Here's what sticks it*/
-    bottom:0;          /*to the bottom of the window*/
 }
