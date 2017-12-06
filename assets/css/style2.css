@@ -60,7 +60,7 @@ h3 {
 	align-content: center;
 }
 
-.navbar-brand {
+.navbar-brand a {
 height: 90px;
 /*padding-top: 35px;*/
 	font-family: Georgia, Times, "Times New Roman", serif;
